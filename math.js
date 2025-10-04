@@ -25,4 +25,4 @@ console.log(Math.ceil(2.00001));
 console.log(Math.random());
 console.log(Math.random()*10);
 const rand = Math.round(Math.random()*10);
-console.log(rand);
+console.log(rand);  
